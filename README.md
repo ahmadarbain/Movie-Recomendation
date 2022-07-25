@@ -1,7 +1,5 @@
 # Movie-Recomendation
 
-# Laporan Proyek Machine Learning - Ahmad Arbain
-
 ## Project Overview
 
 Sektor perfilman menjadi salah satu sektor yang terdampak ketika pandemi Covid-19. Mulai dari terhentinya proses produksi yang melibatkan banyak pekerja seni dan juga penutupan bioskop yang dilakukan untuk memutus penyebaran Covid-19. Untuk itu, Pemerintah telah melakukan evaluasi kebijakan yang ditujukan untuk menghidupkan kembali industri perfilman nasional.
